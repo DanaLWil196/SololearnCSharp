@@ -24,8 +24,9 @@ namespace SololearnCSharp
 
             //Comment
 
-            var num;
-            num = 42;
+            var num = 42;
+
+            const double Pi = 3.14;
 
         }
     }

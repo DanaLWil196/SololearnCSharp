@@ -23,6 +23,10 @@ namespace SololearnCSharp
             Console.WriteLine($"Hello {yourName}.");
 
             //Comment
+
+            var num;
+            num = 42;
+
         }
     }
 }

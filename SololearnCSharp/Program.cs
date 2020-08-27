@@ -14,8 +14,13 @@ namespace SololearnCSharp
             char y = 'Z';
             bool isOnline = true;
             string firstName = "David";
+
             Console.WriteLine(x);
 
+            string yourName;
+            Console.WriteLine("What is your name?");
+            yourName = Console.ReadLine();
+            Console.WriteLine($"Hello {yourName}.");
         }
     }
 }

@@ -9,7 +9,6 @@ namespace SololearnCSharp
             Console.WriteLine("Hello World!");
             int myAge;
             myAge = 18;
-
         }
     }
 }

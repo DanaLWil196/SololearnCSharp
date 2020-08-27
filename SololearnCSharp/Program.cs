@@ -28,6 +28,10 @@ namespace SololearnCSharp
 
             const double Pi = 3.14;
 
+            int t = 8;
+            int d = 15;
+            Console.WriteLine(d - t);
+            //Outputs 7
         }
     }
 }

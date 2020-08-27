@@ -32,6 +32,10 @@ namespace SololearnCSharp
             int d = 15;
             Console.WriteLine(d - t);
             //Outputs 7
+
+            int v = 42;
+            v + 2;
+            v -= 6;
         }
     }
 }
